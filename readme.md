@@ -24,6 +24,4 @@ concepts_covered:
 - Hover effects
 - Flexbox alignment for navigation
 
-author:
-name: "Gaurav Ambasta"
-github: "https://github.com/GauravAmbasta2405"
+✍️ **Maintained by [Gaurav Ambasta](https://github.com/GauravAmbasta2405)**
